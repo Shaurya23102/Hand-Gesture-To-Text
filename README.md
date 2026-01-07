@@ -83,7 +83,7 @@ ASL Letter + Probability Output
 * Detected Letter: **A**
 * Confidence: **92.4%**
 * Displayed above the hand bounding box in real time
-
+![image alt](https://github.com/Shaurya23102/Hand-Gesture-To-Text/blob/main/G.png?raw=true)
 ---
 
 ## Installation
