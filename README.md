@@ -39,7 +39,7 @@ It uses **MediaPipe** for accurate hand detection and **MobileNet** for gesture 
 5. Pass the image to the MobileNet model
 6. Predict ASL letter and confidence score
 7. Display result above the detected hand
-
+![image alt](https://github.com/Shaurya23102/Hand-Gesture-To-Text/blob/main/fig_1.png?raw=true)
 ---
 
 ## System Architecture
